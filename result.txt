@@ -1,0 +1,30 @@
+10/08/2019 16:48:41
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Desktop\Exception\random_file1.py", line 16, in zero
+    print('Result after division is ', a / b)
+ZeroDivisionError: division by zero
+
+10/08/2019 16:48:54
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Desktop\Exception\random_file1.py", line 16, in zero
+    print('Result after division is ', a / b)
+ZeroDivisionError: division by zero
+
+10/08/2019 16:49:42
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Desktop\Exception\random_file1.py", line 28, in value
+    print('You have entered integer ',int(var))
+ValueError: invalid literal for int() with base 10: 'debojyoti'
+
+10/08/2019 16:51:44
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Desktop\Exception\random_file1.py", line 22, in index
+    print('Value at index positions is ',array[i])
+IndexError: list index out of range
+
+10/08/2019 16:52:38
+Traceback (most recent call last):
+  File "C:\Users\MY PC\Desktop\Exception\random_file1.py", line 9, in file
+    with open(name) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'dem.txt'
+
